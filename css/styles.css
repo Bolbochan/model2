@@ -1,0 +1,219 @@
+main{
+top: 0px;
+left: 0px;
+width: 1200px;
+height: 900px;
+}
+main{
+background: #464F54 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.background{
+position: absolute;
+top: 47px;
+left: 324px;
+width: 876px;
+height: 187px;
+z-index: 9999;
+}
+.background{
+background: #181818 0% 0% no-repeat padding-box;
+box-shadow: -3.54px -3.54px 59px #00000029;
+opacity: 1;
+}
+.headone{
+    position: absolute;
+    top: 91px;
+    left: 388px;
+    width: 54px;
+    height: 20px;
+    z-index: 9999;
+}
+.headone{
+    text-align: left;
+    letter-spacing: 4.8px;
+    color: #767676;
+    opacity: 1;    
+}
+.headtwo{
+    position: absolute;
+    top: 107px;
+    left: 386px;
+    width: 100%;
+    height: 64px;
+    border-bottom: solid rgb(65, 65, 65);
+    z-index: 9999;
+}
+.headtwo{
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FEFEFE;
+    opacity: 1;    
+    font-size: 48px;
+}
+.headthree{
+    position: absolute  ;
+    top: 234px;
+    left: 388px;
+    width: 876px;
+    height: 76px;   
+    z-index: 9999;
+}
+.headthree{
+background: #FBC02D 0% 0% no-repeat padding-box;
+box-shadow: -3.54px -3.54px 59px #00000029;
+opacity: 1;
+}
+ul{
+list-style-type: none;
+z-index: 5;
+}
+.oneli{
+position: absolute; 
+top: 256px;
+left: 430px;
+width: 38px;
+height: 32px;
+z-index: 9999;
+}
+.twoli{
+position: absolute; 
+top: 260px;
+left: 490px;
+width: 30px;
+height: 23px;
+z-index: 9999;
+}
+.threeli{
+position: absolute; 
+top: 258px;
+left: 550px;
+width: 28px;
+height: 27px;
+z-index: 9999;
+}
+.fourli{
+position: absolute; 
+top: 258px;
+left: 610px;
+width: 20px;
+height: 26px;
+opacity: 1;
+z-index: 9999;
+}
+.fiveli{
+position: absolute; 
+top: 261px;
+left: 670px;
+width: 19px;
+height: 22px;
+z-index: 9999;
+}
+.sixli{
+position: absolute; 
+top: 258px;
+left: 730px;
+width: 22px;
+height: 27px;
+z-index: 9999;
+}
+.sevenli{
+position: absolute; 
+top: 258px;
+left: 790px;
+width: 28px;
+height: 27px;
+z-index: 9999;
+}
+.eightli{
+position: absolute; 
+top: 258px;
+left: 850px;
+width: 28px;
+height: 27px;
+z-index: 9999;
+}
+.nineli{
+position: absolute; 
+top: 258px;
+left: 910px;
+width: 28px;
+height: 27px;
+z-index: 9999;
+}
+.tenli{
+position: absolute; 
+top: 258px;
+left: 970px;
+width: 28px;
+height: 27px;
+z-index: 9999;
+}
+.document{
+    position: absolute; 
+    top: 149px;
+    left: 70px;
+    width: 1060px;
+    height: 1195px;
+}
+.document{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 35px #00000038;
+opacity: 1;
+}
+.document{
+    z-index: 1;
+}
+.documentone{
+    position: absolute; 
+    top: 344px;
+    left: 194px;
+    width: 211px;
+    height: 26px;
+    z-index: 9999;
+}
+.documentone{
+    text-align: left;
+letter-spacing: 4.34px;
+color: #B4B4B4;
+opacity: 1;
+}
+.documenttwo{
+    font-size: 48px;
+    position: absolute;
+    top: 381px;
+    left: 191px;
+    width: 959px;
+    height: 390px;
+    z-index: 9999;
+}
+.documenttwo{
+    text-align: left;
+    letter-spacing: 4.13px;
+    color: #2A2A2A;
+    opacity: 1;  
+}
+.documentthree{
+    position: absolute;
+    top: 450px;
+    left: 191px;
+    width: 552px;
+    height: 35px;
+    z-index: 9999;
+    font-size: 30px;
+}
+.documentthree{
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8F8F8F;
+    opacity: 1;   
+}
+.top{
+    position: absolute;
+    top: 550px;
+    left: 191px;
+    width: 752px;
+    height: 35px;
+    z-index: 9999;
+    font-size: 30px; 
+}
